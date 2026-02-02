@@ -1,10 +1,11 @@
-# 30-Day-Challenge-SOC-Analyst-Projects
+## 30-Day-Challenge-SOC-Analyst-Projects
 
-#day 1
+# day 1
+
 <img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/64ec4275-2621-443a-b3cd-2281de3e2072" />
 
 
-#day2
+# day2
 
 E-ELK | Elasticsearch
 - Search and engine database platform
@@ -16,4 +17,4 @@ K-ELK | Kibana
 
 -- In summary, ELK is great for centralized logging, flexibility, visualizations, and scalability. 
 
-#day3
+# day3
