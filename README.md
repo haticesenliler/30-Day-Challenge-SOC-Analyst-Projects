@@ -1,7 +1,7 @@
 # 30-Day-Challenge-SOC-Analyst-Projects
 
 #day 1
-<img width="200" height="170" alt="image" src="https://github.com/user-attachments/assets/64ec4275-2621-443a-b3cd-2281de3e2072" />
+<img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/64ec4275-2621-443a-b3cd-2281de3e2072" />
 
 
 #day2
