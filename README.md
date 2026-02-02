@@ -18,7 +18,7 @@ K-ELK | Kibana
 -- In summary, ELK is great for centralized logging, flexibility, visualizations, and scalability. 
 
 ## day3
-- Installed VULTR and updated the reposatieries. 
-- Dowloanded and installed elasticsearch on terminal and put the ip address of VPN and port in the elasticsearch.yml file. 
-- Edited firewall in the VULTR to be accessible only by the IP address.
-- Started up the elasticsearch by *systemctl enable elasticsearch.service
+- Installed VULTR and updated the repositories.
+- Downloaded and installed Elasticsearch via the terminal, then added the VPN IP address and port to the elasticsearch.yml file.
+- Configured the VULTR firewall to allow access only from the specified IP address.
+- Started Elasticsearch using systemctl enable elasticsearch.service.
