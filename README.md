@@ -4,7 +4,6 @@
 Created a logical diagram.
 
 
-<img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/64ec4275-2621-443a-b3cd-2281de3e2072" />
 
 
 ## day 2
@@ -26,7 +25,10 @@ K-ELK | Kibana
 - Started Elasticsearch using systemctl enable elasticsearch.service.
 
 ## day 4
-- Installed Kibana in the system
-- connected the ip and port through nano
-- Elastic website is now accessible through enabling port 5601
-- accessed the tokens from  elastic
+- Installed Kibana on the system.
+- Configured the IP address and port using nano.
+- The Elastic web interface is now accessible after enabling port 5601.
+- Retrieved the tokens from Elasticsearch and used them on the private network to access Elasticsearch via its private IP address.
+
+## day 5
+- 
