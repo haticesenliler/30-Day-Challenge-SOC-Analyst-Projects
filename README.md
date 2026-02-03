@@ -3,6 +3,7 @@
 ## day 1
 Created a logical diagram.
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8e4b299a-cd1d-49bd-8c75-21a92d9ba5c4" />
 
 
 
