@@ -32,4 +32,4 @@ K-ELK | Kibana
 - Retrieved the tokens from Elasticsearch and used them on the private network to access Elasticsearch via its private IP address.
 
 ## day 5
-- 
+- Windows server installation have been completed.
