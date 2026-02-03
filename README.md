@@ -24,3 +24,9 @@ K-ELK | Kibana
 - Downloaded and installed Elasticsearch via the terminal, then added the VPN IP address and port to the elasticsearch.yml file.
 - Configured the VULTR firewall to allow access only from the specified IP address.
 - Started Elasticsearch using systemctl enable elasticsearch.service.
+
+## day 4
+- Installed Kibana in the system
+- connected the ip and port through nano
+- Elastic website is now accessible through enabling port 5601
+- accessed the tokens from  elastic
