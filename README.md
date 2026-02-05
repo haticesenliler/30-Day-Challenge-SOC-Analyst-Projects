@@ -5,8 +5,6 @@ Created a logical diagram.
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8e4b299a-cd1d-49bd-8c75-21a92d9ba5c4" />
 
-
-
 ## day 2
 
 E-ELK | Elasticsearch
@@ -33,3 +31,10 @@ K-ELK | Kibana
 
 ## day 5
 - Windows server installation have been completed.
+
+## day 6
+- Elastic Agent: A single agent that manages collected data.
+- Managed by Fleet: The Elastic Agent’s lifecycle, policies, and configuration are centrally managed through Fleet.
+    - Standalone mode: All configuration is applied to the Elastic Agent manually.
+- Beats: Lightweight data shippers used to send data from different sources to Elasticsearch.
+- Fleet Server: The component that connects Elastic Agents to Fleet, making it easy to apply changes, updates, and policy adjustments.
