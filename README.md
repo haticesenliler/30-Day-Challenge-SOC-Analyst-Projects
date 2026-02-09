@@ -49,13 +49,13 @@ K-ELK | Kibana
 - Monitors a wide range of system events.
 -cProcess GUID: Correlates events across the system, making it easier to see the bigger picture.
 
-Event ID 1 – Process Creation:
+- Event ID 1 – Process Creation:
     - Tracks process creation in detail, including file hashes.
-Event ID 3 – Network Connection:
+- Event ID 3 – Network Connection:
     - Logs TCP/UDP connections (UDP is disabled by default) and includes source and destination IP addresses, hostnames, port numbers, and IPv6 status.
-Event ID 6 / 7 / 8 – Driver Image Load & Create Remote Thread:
+- Event ID 6 / 7 / 8 – Driver Image Load & Create Remote Thread:
     - Helps identify potential defense-evasion techniques commonly monitored by EDR (Endpoint Detection and Response) solutions.
-Event ID 10 – Process Access: 
+- Event ID 10 – Process Access: 
     - Detects attempts by hacking tools to read the memory of sensitive processes, such as the Local Security Authority (LSASS.exe), to steal credentials.
-Event ID 22 – DNS Query: 
-    = Generated when a process performs a DNS query.
+- Event ID 22 – DNS Query: 
+    - Generated when a process performs a DNS query.
