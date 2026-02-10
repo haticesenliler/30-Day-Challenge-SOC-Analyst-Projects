@@ -9,8 +9,10 @@ Created a logical diagram.
 
 E-ELK | Elasticsearch
 - Search and engine database platform
+  
 L-ELK | Logstash
 - Collects logs and data
+
 K-ELK | Kibana
 - Data Visualization and management tool
 - Beats/Agents
@@ -65,5 +67,10 @@ K-ELK | Kibana
 - Confirmed it started to generate events.
   
 <img width="662" height="154" alt="image" src="https://github.com/user-attachments/assets/87353322-4d1e-4484-86a9-7f735244e0b0" />
+
+## day 10
+- Confirmed that Sysmon is integrated into Elasticsearch.
+- Sysmon and Microsoft Defender logs are successfully ingested into Elasticsearch.
+<img width="368" height="28" alt="image" src="https://github.com/user-attachments/assets/78099a29-010b-4c37-b5da-70d3a520366f" />
 
   
