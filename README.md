@@ -49,7 +49,7 @@ K-ELK | Kibana
 - Sysmon (System Monitor): A tool that helps monitor system events in detail. 
 - A free Microsoft tool that is part of the Sysinternals Suite.
 - Monitors a wide range of system events.
--cProcess GUID: Correlates events across the system, making it easier to see the bigger picture.
+- Process GUID: Correlates events across the system, making it easier to see the bigger picture.
 
 - Event ID 1 – Process Creation:
     - Tracks process creation in detail, including file hashes.
