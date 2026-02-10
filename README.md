@@ -59,3 +59,11 @@ K-ELK | Kibana
     - Detects attempts by hacking tools to read the memory of sensitive processes, such as the Local Security Authority (LSASS.exe), to steal credentials.
 - Event ID 22 – DNS Query: 
     - Generated when a process performs a DNS query.
+ 
+## day 9
+- Installed and configured Sysmon on the Windows server machine.
+- Confirmed it started to generate events.
+  
+<img width="662" height="154" alt="image" src="https://github.com/user-attachments/assets/87353322-4d1e-4484-86a9-7f735244e0b0" />
+
+  
