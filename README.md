@@ -81,3 +81,8 @@ K-ELK | Kibana
 Hydra, HashCat, John the Ripper: Brute Force Attack tools 
 
 ## day 12
+- Set up own SSH server in the cloud.
+- Got failed autentication attempts in the server.
+
+- 
+
