@@ -73,4 +73,11 @@ K-ELK | Kibana
 - Sysmon and Microsoft Defender logs are successfully ingested into Elasticsearch.
 <img width="368" height="28" alt="image" src="https://github.com/user-attachments/assets/78099a29-010b-4c37-b5da-70d3a520366f" />
 
-  
+## day 11
+- Brute Force Attack: Trying every combination to find the correct password.
+- Dictionary Attack: Using common words or phrases to guess the correct password.
+- Credential Stuffing: Using credential information to find the password, such as known or exposed passwords or usernames.
+
+Hydra, HashCat, John the Ripper: Brute Force Attack tools 
+
+## day 12
