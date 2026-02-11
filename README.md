@@ -84,5 +84,12 @@ Hydra, HashCat, John the Ripper: Brute Force Attack tools
 - Set up own SSH server in the cloud.
 - Got failed autentication attempts in the server.
 
-- 
+## day 13
+- Installed Elastic agent on the SSH Server
+- Confirmed logs are generated.
+
+## day 14
+- Created alert and dashboard for SSH Brute Force
+
+<img width="2167" height="450" alt="image" src="https://github.com/user-attachments/assets/554eb797-ece0-447a-a5ca-f0d0cbf2b57f" />
 
