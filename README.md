@@ -93,3 +93,10 @@ Hydra, HashCat, John the Ripper: Brute Force Attack tools
 
 <img width="2167" height="450" alt="image" src="https://github.com/user-attachments/assets/554eb797-ece0-447a-a5ca-f0d0cbf2b57f" />
 
+## day 15
+- RDP (Remote Desktop Protocol)
+To keep track of services that is exposed to the internet:
+- Shodan
+    - Port3389 mostly is the protocol for RDP
+- Censys
+
