@@ -104,3 +104,15 @@ To keep track of services that is exposed to the internet:
 - Event ID 4625: Documents every failed login attempt on a Windows computer.
 - Created alerts and configured for both Windows (RDP) and Ubuntu (SSH) servers.
 - Alert dsplays the user.name and source.ip for all failed authentication attempts.
+
+## day 17
+- Created dashboards for both Windows (RDP) and Ubuntu (SSH) servers tracking for both successful and failed attempts.
+- Captured user.name, source.ip, and source.geo.country_name of these attempts. 
+
+<img width="2170" height="412" alt="image" src="https://github.com/user-attachments/assets/2fb1ff35-5c40-4ed8-b243-bf9efabcd499" />
+<img width="2171" height="418" alt="image" src="https://github.com/user-attachments/assets/1149e0b2-8913-472a-bcd3-48d0e8a4c698" />
+<img width="2190" height="424" alt="Screenshot 2026-02-13 111602" src="https://github.com/user-attachments/assets/74f67017-6290-4769-87e0-14e2c6531b96" />
+<img width="2144" height="426" alt="Screenshot 2026-02-13 111746" src="https://github.com/user-attachments/assets/c635335d-55a1-4429-aed2-e0619404b53b" />
+
+
+
