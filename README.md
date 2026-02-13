@@ -100,3 +100,7 @@ To keep track of services that is exposed to the internet:
     - Port3389 mostly is the protocol for RDP
 - Censys
 
+## day 16
+- Event ID 4625: Documents every failed login attempt on a Windows computer.
+- Created alerts and configured for both Windows (RDP) and Ubuntu (SSH) servers.
+- Alert dsplays the user.name and source.ip for all failed authentication attempts.
