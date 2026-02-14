@@ -129,3 +129,4 @@ To keep track of services that is exposed to the internet:
 <img width="300" height="300" alt="Screenshot 2026-02-14 152221" src="https://github.com/user-attachments/assets/dc548133-8746-4f2e-84fb-84d5208c35ca" />
 
 ## DAY 20
+- Setup Mythic C2 server
