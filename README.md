@@ -125,7 +125,7 @@ To keep track of services that is exposed to the internet:
 
 ## DAY 19
 
-<img width="796" height="942" alt="Screenshot 2026-02-14 152210" src="https://github.com/user-attachments/assets/b9b4f01f-e762-459e-b03e-2c1c43b634c8" />
-<img width="776" height="1084" alt="Screenshot 2026-02-14 152221" src="https://github.com/user-attachments/assets/dc548133-8746-4f2e-84fb-84d5208c35ca" />
+<img width="300" height="300" alt="Screenshot 2026-02-14 152210" src="https://github.com/user-attachments/assets/b9b4f01f-e762-459e-b03e-2c1c43b634c8" />
+<img width="300" height="300" alt="Screenshot 2026-02-14 152221" src="https://github.com/user-attachments/assets/dc548133-8746-4f2e-84fb-84d5208c35ca" />
 
-
+## DAY 20
